@@ -1,0 +1,33 @@
+@media screen and (max-width: 760px) {
+    header {
+        flex-direction: column;
+    }
+
+    #main_1 {
+        flex-direction: column;
+    }
+
+    #logo-heavens {
+        display: none;
+    }
+
+    #our_jobs {
+        margin-top: 60px;
+    }
+
+    li {
+        margin: 10px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    #our_members {
+        display: none;
+    }
+
+    #ttt-formação {
+        margin-top: 50px;
+    }
+}
