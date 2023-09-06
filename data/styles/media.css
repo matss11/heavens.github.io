@@ -16,7 +16,7 @@
     }
 
     li {
-        margin: 10px;
+        margin: 0px;
     }
 
     h2 {
@@ -29,5 +29,6 @@
 
     #ttt-formação {
         margin-top: 50px;
+        width: 400px;
     }
 }
